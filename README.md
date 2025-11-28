@@ -1,4 +1,8 @@
 # Libraries
+When running in colab do
+```
+!pip install zuko
+```
 
 
 Installation of the environment:
